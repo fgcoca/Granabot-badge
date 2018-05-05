@@ -22,12 +22,16 @@ Se trata de una PCB diseñada en base al logo de Granabot como un kit de soldadu
     * [Firmware](https://github.com/fgcoca/Granabot-badge/tree/master/Firmware/badge_granabot)
 
 4. Kit. Al badge Granabot se le da formato de kit para su entrega estando este formado por la PCB, los componentes necesarios para montarlo, un manual de montaje impreso y una fe de erratas. Todo ello introducido en una cajita adornada con [pegatinas](https://github.com/fgcoca/Granabot-badge/tree/master/Pegatinas-Caja) de Granabot y de los patrocinadores. En las imágenes se ve el aspecto final del kit listo para su entrega de una caja individual y de un conjunto de cajas preparadas para su entrega el día de la celebración del evento [Granabot][https://sites.google.com/site/granabot18/]
+
 ![Vista desde la derecha][10] ![Conjunto visto desde la izquierda][11]
+
  [10]: https://github.com/fgcoca/Granabot-badge/blob/master/Images/VDcha.jpg
  [11]: https://github.com/fgcoca/Granabot-badge/blob/master/Images/VIzdaConj.jpg
 
 En la imagen vemos a Juan Robles de [Createc](https://createc3d.com/) (uno de nuestros patrocinadores) con el badge recien entregado.
+
 ![Juan Robles][12]
+
  [12]: https://github.com/fgcoca/Granabot-badge/blob/master/Images/Juan.jpg
  
 
