@@ -39,26 +39,21 @@ En la imagen vemos a Juan Robles de [Createc](https://createc3d.com/) (uno de nu
     * [Listas de materiales](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/BOM)
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM-con-links-compras.ods)
       * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM-con-links-compras.pdf)
-      * [Formato .png](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM.png)
-      
+      * [Formato .png](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM.png)      
     * [Erratas en la primera edición del kit](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Erratas)
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Erratas/Erratas.odt)
-      * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Erratas/Erratas.pdf)
-      
+      * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Erratas/Erratas.pdf)      
     * [Manuales de montaje](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Montaje)
       * [Formato comprimido .7z](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Montaje/Manual-montaje.7z)
       * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Montaje/Manual-montaje.pdf)
-      * [Formato .png](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Montaje/Manual-montaje.png)
-      
+      * [Formato .png](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Montaje/Manual-montaje.png)      
     * [Manuales de configuraciones y uso de librerias para programar el kit](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Programacion)
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programacion/Manual.odt)
       * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programacion/Manual.pdf)
-      * [Video de funcionamiento](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programacion/video/Test-badge-Granabot.mp4) 
-      
+      * [Video de funcionamiento](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programacion/video/Test-badge-Granabot.mp4)       
     * [Programando físicamente el kit](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Programando)
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Programando.odt)
-      * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Programando.pdf)  
-      
+      * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Programando.pdf)        
     * [Pinza de sujeción diseñada en 3D](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Programando/Design)
       * [Diseño en FreeCAD](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Design/Pinzas-Centrador.FCStd)
       * [Archivo stl de la pinza](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Design/Pinza.stl)  
