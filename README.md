@@ -40,7 +40,7 @@ En la imagen vemos a Juan Robles de [Createc](https://createc3d.com/) (uno de nu
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM-con-links-compras.ods)
       * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM-con-links-compras.pdf)
       * [Formato .png](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/BOM/BOM.png)      
-    * [Erratas en la primera edición del kit](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Erratas)
+     * [Erratas en la primera edición del kit](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Erratas)
       * [Formato .odt](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Erratas/Erratas.odt)
       * [Formato .pdf](https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Erratas/Erratas.pdf)      
     * [Manuales de montaje](https://github.com/fgcoca/Granabot-badge/tree/master/Kit/Montaje)
