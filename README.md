@@ -61,8 +61,8 @@ En la imagen vemos a Juan Robles de [Createc](https://createc3d.com/) (uno de nu
 
 ![Guía de posicionado][20] ![Pinza de sujeción con el muelle montado][21]
 
- [20]: https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Images/03Guia-posicionado.jpg
- [21]: https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Images/10Pinza-sujecion.jpg
+ [20]: https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Images/03Guia-posicionadoM.jpg
+ [21]: https://github.com/fgcoca/Granabot-badge/blob/master/Kit/Programando/Images/10Pinza-sujecionM.jpg
 
 # **Enlaces**
 
