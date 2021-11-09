@@ -6,7 +6,7 @@ Se trata de una PCB diseñada en base al logo de Granabot como un kit de soldadu
  [1]: https://github.com/fgcoca/Granabot-badge/blob/master/Images/Top-Botton.png
 
 # **Contenidos del repositorio**
-1. Diseños originales de Gustavo Reynaga de la PCB realizados con [KICad](http://kicad-pcb.org/)
+1. Diseños originales de Gustavo Reynaga de la PCB realizados con [KICad](http://kicad.org/)
 
     * [Granabot badge original](https://github.com/fgcoca/Granabot-badge/tree/master/Granabot-Badge-Original)
     * [Imágenes para el diseño](https://github.com/fgcoca/Granabot-badge/tree/master/Granabot-Badge-Original/Design/images)
